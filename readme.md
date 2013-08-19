@@ -1,4 +1,4 @@
-## Groovy Koans Project ##
+## http://mrhaki.blogspot.com/2009/09/groovy-goodness-working-with-arrays.html##
 
 The Groovy Koans project is a collection of small exercises in the form of unit tests, designed to get Java
 developers up to speed on Groovy features and common idioms. It starts by teaching you basic Groovy building
